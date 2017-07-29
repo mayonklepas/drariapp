@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_home_black_48dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@mipmap/ic_account_box_black_48dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_artikel"
+            android:icon="@mipmap/ic_description_black_48dp"
+            android:title="Artikel" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Video" />
+        <item
+            android:id="@+id/nav_publikasi"
+            android:icon="@mipmap/ic_backup_black_48dp"
+            android:title="Publikasi" />
+    </group>
+
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/tweet"
+                android:title="Twitter" />
+
+            <item
+                android:id="@+id/nav_insta"
+                android:icon="@drawable/insta"
+                android:title="Instagram" />
+
+            <item
+                android:id="@+id/nav_kirim"
+                android:icon="@mipmap/ic_email_black_48dp"
+                android:title="Kirim Pesan" />
+        </menu>
+    </item>
+
+</menu>
