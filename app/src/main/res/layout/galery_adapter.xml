@@ -9,12 +9,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:elevation="3dp"
-        android:layout_margin="3dp">
+        android:layout_margin="1dp">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:padding="5dp">
+            android:padding="4dp">
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
@@ -23,7 +23,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="judul"
-                android:textSize="16sp"
+                android:textSize="14sp"
                 android:id="@+id/judul"/>
 
         </LinearLayout>
