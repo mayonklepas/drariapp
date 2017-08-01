@@ -5,7 +5,7 @@ package com.meteorit.companyprofileapp;
  */
 
 public class Config {
-    public static String url="http://198.50.174.114/cpandroid";
+    public static String url="https://lombokapp.com/apps/cpdrari";
 
     public static String judultips="";
     public static String kontentips="";

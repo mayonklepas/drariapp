@@ -187,7 +187,7 @@ public class Home_fragment extends Fragment{
                 i.putExtra("gambar",Config.gambarpublish);
                 i.putExtra("tanggal",Config.tanggalpublish);
                 i.putExtra("ispublish",true);
-                i.putExtra("header","Publish Terbaru");
+                i.putExtra("header","Publikasi Terbaru");
                 startActivity(i);
             }
         });
