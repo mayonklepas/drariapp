@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wav" type="Native" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
