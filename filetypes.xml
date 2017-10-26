@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="ttf" approved="true" type="Font" />
       <mapping ext="wav" type="Native" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
