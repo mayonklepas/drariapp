@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Companyprofileapp'" />
-    <option name="defaultScopeName" value="Project 'Companyprofileapp'" />
+    <option name="customScope" value="Project 'Smscryptochipper'" />
+    <option name="defaultScopeName" value="Project 'Smscryptochipper'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Companyprofileapp'" />
+    <option name="SEARCH_SCOPE" value="Project 'Smscryptochipper'" />
   </component>
 </application>
